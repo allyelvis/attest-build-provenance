@@ -70,7 +70,7 @@
     ]
   },
   "dependencies": {
-    "@actions/attest": "^1.2.1",
+    "@actions/attest": "^2.2.0",
     "@actions/core": "^1.11.1"
   },
   "devDependencies": {
@@ -79,7 +79,7 @@
     "@typescript-eslint/eslint-plugin": "^7.9.0",
     "@typescript-eslint/parser": "^7.9.0",
     "@vercel/ncc": "^0.38.1",
-    "eslint": "^8.57.0",
+    "eslint": "^9.26.0",
     "eslint-plugin-github": "^4.10.2",
     "eslint-plugin-jest": "^28.5.0",
     "eslint-plugin-jsonc": "^2.15.1",
